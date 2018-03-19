@@ -13,5 +13,11 @@ This is an android app which is used for basic arithmetic functions.
 1. Andriod SDK(using Java)
 2. FIrebase API for Google and Facebook login.
 
+## Output
+
+<img src="images/SignIn (1).jpeg" height="250px" width="150px">
+
+<img src="images/Calculator.jpeg" height="250px" width="150px">
+
 ## Author
 Gauri Govind Rajulu
