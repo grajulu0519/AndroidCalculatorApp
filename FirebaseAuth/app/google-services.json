@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "996905317905",
+    "firebase_url": "https://projectauthentication-78374.firebaseio.com",
+    "project_id": "projectauthentication-78374",
+    "storage_bucket": "projectauthentication-78374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996905317905:android:1b31cbd5bb20efdd",
+        "android_client_info": {
+          "package_name": "com.christopherhield.textview_edittext_button"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996905317905-513gg5omvmnkn4ba2ghtp64ej0fmuq6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christopherhield.textview_edittext_button",
+            "certificate_hash": "75827cb907af3dadaa70f12f781e5403d784d371"
+          }
+        },
+        {
+          "client_id": "996905317905-s2pehnvqne36tce33fgcng00ko0ca3js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpE6I8sVrtI7eazc8lHvK7B3uJbzfHbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996905317905-s2pehnvqne36tce33fgcng00ko0ca3js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996905317905:android:1657832e02676f04",
+        "android_client_info": {
+          "package_name": "com.example.gauri.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996905317905-elrnpmlnh4ovujd94irc2cch4i1td81j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gauri.firebaseauth",
+            "certificate_hash": "75827cb907af3dadaa70f12f781e5403d784d371"
+          }
+        },
+        {
+          "client_id": "996905317905-s2pehnvqne36tce33fgcng00ko0ca3js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpE6I8sVrtI7eazc8lHvK7B3uJbzfHbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996905317905-s2pehnvqne36tce33fgcng00ko0ca3js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
